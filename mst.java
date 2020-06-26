@@ -12,6 +12,7 @@ class GFG{
 	public static void p1()
 	{
 		System.out.println("B is "+b);
+		System.out.println("Static keyword");
 	}
 	public static void p2()
 	{
