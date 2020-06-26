@@ -1,5 +1,5 @@
 class GFG{
-	static int a=10;
+	static int a=200;
 	static int b;
 	static int c;
 	
