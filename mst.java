@@ -9,6 +9,8 @@ class GFG{
 	static {
 		c=a+20;
 		System.out.println("Nice");
+		System.out.println("Iam cool!!!!");
+		
 	}
 	public static void p1()
 	{
