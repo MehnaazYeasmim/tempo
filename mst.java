@@ -7,7 +7,8 @@ class GFG{
 		b=a*4;
 	}
 	static {
-		c=a+10;
+		c=a+20;
+		System.out.println("Nice");
 	}
 	public static void p1()
 	{
